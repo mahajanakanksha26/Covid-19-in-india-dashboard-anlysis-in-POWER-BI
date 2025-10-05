@@ -1,5 +1,4 @@
 # Covid-19-in-india-dashboard-anlysis-in-tableau
-# Covid-19 in India Dashboard Analysis
 
 ## Overview
 Dashboard visualizing COVID-19 data in India including vaccine doses, testing, cases by state, age, and gender distribution.
